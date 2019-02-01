@@ -7,7 +7,7 @@ result = EdMot(uG,str,Nrun,ty)
 
 % Input: uG, node adjacency matrix, in sparse format
 
-%        str, name of the graph partitioning ('Louvain', 'SC','AP',NMF);
+%        str, name of the graph partitioning ('Louvain', 'SC','AP',NMF)
 
 %        Nrun, number of runs
 
