@@ -1,6 +1,6 @@
 # EdMot_pro/EdMot: 
 
-This is the Matlab (protected) program of EdMot.
+This is the Matlab (protected) program for the **Edge enhancement approach for motif-aware community detection** accepted at **KDD 2019** for **oral presentation**.
 You are suggested to use a 64 bit Matlab with version higher than R2014b. Thank you.
 
 Usage:
